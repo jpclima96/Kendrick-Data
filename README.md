@@ -11,7 +11,7 @@ O projeto visa criar uma análise abrangente de artistas no Spotify, explorando 
 - [x] Configuração de credenciais no código
 - [x] Funções de utilidade para extração de dados
 
-### Análises Básicas (Primeiro Notebook)
+### Análises Básicas
 - [x] Identificação da música mais popular
 - [x] Música mais popular por álbum
 - [x] Identificação do álbum mais popular
@@ -26,7 +26,7 @@ O projeto visa criar uma análise abrangente de artistas no Spotify, explorando 
 ### Análises Adicionais
  - [ ]  Evolução temporal das características musicais
 - [ ] Matriz de correlação entre características
-- [] Análise de duração por álbum
+- [ ] Análise de duração por álbum
 - [ ] Análise de "mood" (humor) das músicas
 - [ ] Características técnicas por álbum
 - [ ] Rankings específicos (dançantes, energéticas)
