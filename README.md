@@ -62,15 +62,6 @@ pip install spotipy pandas matplotlib seaborn numpy
    CLIENT_ID = 'seu_client_id'
    CLIENT_SECRET = 'seu_client_secret'
    ```
-4. Execute os notebooks na ordem:
-   - `spotify_basic_analysis.ipynb`
-   - `spotify_advanced_analysis.ipynb`
-
-## 📊 Exemplos de Análises
-- Evolução temporal das características musicais
-- Correlação entre diferentes aspectos das músicas
-- Distribuição de popularidade por álbum
-- Análise de complexidade musical vs. popularidade
 
 ## 📝 Notas
 - A API do Spotify tem limites de requisição
