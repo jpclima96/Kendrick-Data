@@ -1,6 +1,4 @@
-# Kendrick-Data
-
-# Análise de Artistas no Spotify
+# Kendrick Data
 Um projeto de análise de dados usando a API do Spotify para extrair e analisar informações sobre artistas e suas músicas.
 
 ## 🎯 Objetivo
