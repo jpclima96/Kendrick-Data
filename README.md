@@ -1,8 +1,7 @@
 # Kendrick Data
-Um projeto de análise de dados usando a API do Spotify para extrair e analisar informações sobre artistas e suas músicas.
 
 ## 🎯 Objetivo
-O projeto visa criar uma análise abrangente de artistas no Spotify, explorando diferentes aspectos de suas músicas, álbuns e características técnicas, com foco inicial no artista Kendrick Lamar.
+O projeto visa criar uma análise abrangente sobre o Kendrick Lamar no Spotify, explorando diferentes aspectos de suas músicas, álbuns e características técnicas.
 
 ## 📋 Funcionalidades Implementadas
 
